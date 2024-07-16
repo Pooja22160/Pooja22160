@@ -21,9 +21,10 @@
 
 # Hi, I'm Pooja! 👋
 Studied Information Technology from SRH Hochschule, Heidelberg<br>
-Limited Proficiency with German language.<br>
-Enjoy working with Transformers.<br>
-Have an OCD for cleaning be it room or data.
+Aim to improvise German skills.<br>
+Enjoy working with LLMs.<br>
+Have an OCD for cleaning be it room or data. <br>
+Turning chaos into clarity - one dashboard at a time!
 
 
 ## 🌐 Socials:
